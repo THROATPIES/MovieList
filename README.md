@@ -22,6 +22,7 @@ This curated list features a mix of beloved comedies, cult classics, and iconic 
 ### 2000s
 
 - **Bedazzled** (2000) - A devilishly funny remake of the 1967 classic
+- **Dude, Where's My Car?** (2000) - A stoner comedy about two friends who can't remember where they parked their car
 - **Supertroopers** (2001) - A hilarious comedy about a group of mischievous state troopers
 - **Eight Crazy Nights** (2002) - An animated Hanukkah comedy featuring Adam Sandler
 - **Kung Pow: Enter the Fist** (2002) - A parody martial arts film that redubs and re-edits footage from a 1970s kung fu movie
