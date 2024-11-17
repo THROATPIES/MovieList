@@ -15,6 +15,7 @@ This curated list features a mix of beloved comedies, cult classics, and iconic 
 - **Hackers!** (1995) - A stylish cyber-thriller that became a cult favorite
 - **Mallrats** (1995) - Kevin Smith's sophomore effort, a quirky comedy set in a suburban mall
 - **Don't Be a Menace to South Central While Drinking Your Juice in the Hood** (1996) - A hilarious parody of 1990s "hood" films
+- **Happy Gilmore** (1996) - A comedy about a failed hockey player who discovers a talent for golf
 - **George of the Jungle** (1997) - A goofy, family-friendly adaptation of the classic cartoon
 - **SLC Punk!** (1998) - A raw look at the 1980s punk scene in Salt Lake City
 - **The Matrix** (1999) - A revolutionary sci-fi action film that changed cinema forever
@@ -23,10 +24,12 @@ This curated list features a mix of beloved comedies, cult classics, and iconic 
 
 - **Bedazzled** (2000) - A devilishly funny remake of the 1967 classic
 - **Dude, Where's My Car?** (2000) - A stoner comedy about two friends who can't remember where they parked their car
+- **Rat Race** (2001) - An ensemble comedy about a group of people racing across the country for a cash prize
 - **Supertroopers** (2001) - A hilarious comedy about a group of mischievous state troopers
 - **Eight Crazy Nights** (2002) - An animated Hanukkah comedy featuring Adam Sandler
 - **Kung Pow: Enter the Fist** (2002) - A parody martial arts film that redubs and re-edits footage from a 1970s kung fu movie
 - **Anchorman: The Legend of Ron Burgundy** (2004) - A quotable comedy about a 1970s San Diego news anchor
+- **Dodgeball** (2004) - A sports comedy about a group of misfits entering a dodgeball tournament
 - **Grandma's Boy** (2006) - A stoner comedy about a video game tester living with his grandmother
 - **Idiocracy** (2006) - A satirical sci-fi comedy about a man who wakes up in a dumbed-down future society
 - **Clerks 2** (2006) - The long-awaited sequel that revisits the characters from the original Clerks
@@ -36,5 +39,9 @@ This curated list features a mix of beloved comedies, cult classics, and iconic 
 ### 2010s
 
 - **Drawn Together the Movie** (2010) - A feature-length continuation of the controversial animated series
+
+### 2020s
+- **Oppenheimer** (2023) - ...
+
 
 This eclectic mix of films showcases the evolution of comedy and cult cinema over three decades, offering a nostalgic journey through some of the most memorable and quotable movies of their respective eras.
