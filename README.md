@@ -17,6 +17,7 @@ This curated list features a mix of beloved comedies, cult classics, and iconic 
 - **George of the Jungle** (1997) - A goofy, family-friendly adaptation of the classic cartoon
 - **SLC Punk!** (1998) - A raw look at the 1980s punk scene in Salt Lake City
 - **The Matrix** (1999) - A revolutionary sci-fi action film that changed cinema forever
+- **Mallrats** (1995) - Kevin Smith's sophomore effort, a quirky comedy set in a suburban mall
 
 ### 2000s
 
