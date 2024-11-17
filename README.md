@@ -26,6 +26,7 @@ This curated list features a mix of beloved comedies, cult classics, and iconic 
 - **Eight Crazy Nights** (2002) - An animated Hanukkah comedy featuring Adam Sandler
 - **Kung Pow: Enter the Fist** (2002) - A parody martial arts film that redubs and re-edits footage from a 1970s kung fu movie
 - **Grandma's Boy** (2006) - A stoner comedy about a video game tester living with his grandmother
+- **Idiocracy** (2006) - A satirical sci-fi comedy about a man who wakes up in a dumbed-down future society
 - **Clerks 2** (2006) - The long-awaited sequel that revisits the characters from the original Clerks
 - **Hot Rod** (2007) - An absurdist comedy about a wannabe stuntman
 - **Superbad** (2007) - A raunchy coming-of-age comedy that launched several careers
