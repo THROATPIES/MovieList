@@ -26,6 +26,7 @@ This curated list features a mix of beloved comedies, cult classics, and iconic 
 - **Supertroopers** (2001) - A hilarious comedy about a group of mischievous state troopers
 - **Eight Crazy Nights** (2002) - An animated Hanukkah comedy featuring Adam Sandler
 - **Kung Pow: Enter the Fist** (2002) - A parody martial arts film that redubs and re-edits footage from a 1970s kung fu movie
+- **Anchorman: The Legend of Ron Burgundy** (2004) - A quotable comedy about a 1970s San Diego news anchor
 - **Grandma's Boy** (2006) - A stoner comedy about a video game tester living with his grandmother
 - **Idiocracy** (2006) - A satirical sci-fi comedy about a man who wakes up in a dumbed-down future society
 - **Clerks 2** (2006) - The long-awaited sequel that revisits the characters from the original Clerks
